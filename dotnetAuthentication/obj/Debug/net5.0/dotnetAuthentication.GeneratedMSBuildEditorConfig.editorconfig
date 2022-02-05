@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = dotnetAuthentication
-build_property.ProjectDir = D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\11-NetCore\25.01\dotnetAuthentication\
+build_property.ProjectDir = C:\Users\arlan\source\repos\Repositories\IdentityProjectDesign_NetCore\dotnetAuthentication\

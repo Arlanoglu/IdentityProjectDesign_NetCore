@@ -5917,32 +5917,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FatihGunalp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\arlan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Yazılım\\Github\\Bilge Adam Akademi\\YZL3153\\11-NetCore\\25.01\\dotnetAuthentication\\dotnetAuthentication.csproj",
+      "projectUniqueName": "C:\\Users\\arlan\\source\\repos\\Repositories\\IdentityProjectDesign_NetCore\\dotnetAuthentication\\dotnetAuthentication.csproj",
       "projectName": "dotnetAuthentication",
-      "projectPath": "d:\\Yazılım\\Github\\Bilge Adam Akademi\\YZL3153\\11-NetCore\\25.01\\dotnetAuthentication\\dotnetAuthentication.csproj",
-      "packagesPath": "C:\\Users\\FatihGunalp\\.nuget\\packages\\",
-      "outputPath": "d:\\Yazılım\\Github\\Bilge Adam Akademi\\YZL3153\\11-NetCore\\25.01\\dotnetAuthentication\\obj\\",
+      "projectPath": "C:\\Users\\arlan\\source\\repos\\Repositories\\IdentityProjectDesign_NetCore\\dotnetAuthentication\\dotnetAuthentication.csproj",
+      "packagesPath": "C:\\Users\\arlan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arlan\\source\\repos\\Repositories\\IdentityProjectDesign_NetCore\\dotnetAuthentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\FatihGunalp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\FatihGunalp\\AppData\\Roaming\\NuGet\\Microsoft.EntityFrameworkCore.Design": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
